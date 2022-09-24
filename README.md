@@ -1,6 +1,6 @@
 ### 🎈Micro CMS
 Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
-
+https://www.youtube.com/watch?v=pijIRTc6pRA&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=7
 ![](https://badgen.net/badge/PHP/>=7.1/green) ![](https://badgen.net/badge/MySQL/>=5.5/green)  ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
 
 - ¿Como instalar en Plesk, cPanel, Hosting compartido  __[Ver](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))__
